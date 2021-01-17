@@ -24,5 +24,7 @@ cd Friend_hack
 
 python2 Zabi1.py
 
+
 Username : Zabi
+
 Password : Obaidi
